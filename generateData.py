@@ -52,4 +52,4 @@ def generate_full_system_data():
 
 if __name__ == "__main__":
     generate_full_system_data()
-    print("Files generated successfully: readings.csv, weather.csv, ems.csv")
+    print("Files generated: readings.csv, weather.csv, ems.csv")
